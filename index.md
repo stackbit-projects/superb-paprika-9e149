@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/056-5x8-Standing-Hardcover-Book-Mockup-COVERVAULT-png.png
     image_alt: App preview
     title: "A\_ Global History of War and Peacein Afghanistan"
     content: >
