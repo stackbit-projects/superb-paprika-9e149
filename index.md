@@ -6,12 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: "A\_ Global History of War and Peacein Afghanistan"
-    content: |
-      A Historical Analysis of the Underlying
-      Drivers of War and Peace in Afghan Society.
-      Challenging the predominant historical assumptions
-      of Afghan National and Western Historiographies
-      from a global History Perspective.
+    content: >
+      A Historical Analysis of the Underlying Drivers of War and Peace in Afghan
+      Society. Challenging the predominant historical assumptions of Afghan
+      National and Western Historiographies from a global History Perspective.
     actions:
       - label: Learn More
         url: /features
