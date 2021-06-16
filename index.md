@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/056-5x8-Standing-Hardcover-Book-Mockup-COVERVAULT-png.png
     image_alt: App preview
-    title: "A\_ Global History of War and Peace in Afghanistan"
+    title: "A\_ Global History\_\_\_\_\_\_ of War and Peace\_\_\_\_\_ in Afghanistan"
     content: >
       A Historical Analysis of the Underlying Drivers of War and Peace in Afghan
       Society. Challenging the predominant historical assumptions of Afghan
